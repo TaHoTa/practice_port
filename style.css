@@ -40,7 +40,7 @@ margin-right: 0;
 .sec_b{
     margin-top: 200 px;
     margin-bottom: 0px;
-    background-color: #FFF89A;
+    background-color: #FED1BF;
 }
 .div_b h1{
     text-align: center;
@@ -62,10 +62,43 @@ margin-right: 0;
 }
 
 .div_c1{
-    background-color: aqua;
+    background-color: #ED1846;
     width: 50%;
+    
+  position: relative;
+}
+.div_c1 p{
+    padding: 100px 0 0 100px;
+    color: black;
+}
+.div_c1 h1{    
+    padding-left: 95px;
+    color: white;
+    font-size: 4em;
+    margin-top: -20px;    
+    position: absolute;
+}
+.div_c1 img{
+    padding-left: 170px;
+    padding-top: 50px;
 }
 .div_c2{
-    background-color:burlywood;
+    background-color: #ffffff;
     width: 50%;
+    padding-bottom: 50px;
+}
+.div_c2 p{
+    padding: 100px 0 0 100px;
+    color: black;
+}
+.div_c2 h1{    
+    padding-left: 95px;
+    color: black;
+    font-size: 4em;
+    margin-top: -20px;    
+    position: absolute;
+}
+.div_c2 img{
+    padding-left: 170px;
+    padding-top: 70px;
 }
